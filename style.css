@@ -1,0 +1,51 @@
+html {
+    background-color:powderblue;
+}
+
+.title-page {
+    color: black;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+aside { 
+    border-radius: 10px;
+    border-right: 50%;
+    background-color: steelblue;
+    position: relative;
+    left: 60%;
+    bottom: 300px;
+    justify-content: right;
+    width: 300px;
+    height: 300px;
+
+}
+
+.forms-edit {
+    background-color: slategray;
+    border-radius: 20px;
+    width: 240px;
+    height: 130px;
+
+}
+
+.username-one {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.password-one {
+    margin-left: 10px;
+}
+
+
+.control-buttons {
+    margin-left: 10px;
+}
+
+footer {
+    position: relative;
+    bottom: 300px;
+}
